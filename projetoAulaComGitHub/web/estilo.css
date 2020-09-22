@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/09/2020, 19:57:10
+    Author     : rosan
+*/
+
+/* 
+Criando estilo para tamanho das imagens que vou utilizar no site da aula de hoje.
+Este estilo será utilizado para TODAS as imagens do site, que estejam na tag <img>, 
+porque vamos colocar o CSS nesta tag
+*/
+
+img{
+    width: 150px;
+    height: 150px;
+}
